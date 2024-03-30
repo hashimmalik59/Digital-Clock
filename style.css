@@ -1,0 +1,15 @@
+body{
+    background-image: url(img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+div{
+    text-align: center;
+    position: relative;
+    top: 30vh;
+}
+span{
+    font-size: 10em;
+    color: white;
+    text-shadow: 0px 2px 2px grey;
+}
